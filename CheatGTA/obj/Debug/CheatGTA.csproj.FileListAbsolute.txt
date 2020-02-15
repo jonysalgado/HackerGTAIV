@@ -1,0 +1,12 @@
+C:\Users\Jony Salgado\source\repos\CheatGTA\CheatGTA\bin\Debug\CheatGTA.exe.config
+C:\Users\Jony Salgado\source\repos\CheatGTA\CheatGTA\bin\Debug\CheatGTA.exe
+C:\Users\Jony Salgado\source\repos\CheatGTA\CheatGTA\bin\Debug\CheatGTA.pdb
+C:\Users\Jony Salgado\source\repos\CheatGTA\CheatGTA\obj\Debug\CheatGTA.csprojAssemblyReference.cache
+C:\Users\Jony Salgado\source\repos\CheatGTA\CheatGTA\obj\Debug\CheatGTA.form1.resources
+C:\Users\Jony Salgado\source\repos\CheatGTA\CheatGTA\obj\Debug\CheatGTA.Properties.Resources.resources
+C:\Users\Jony Salgado\source\repos\CheatGTA\CheatGTA\obj\Debug\CheatGTA.csproj.GenerateResource.cache
+C:\Users\Jony Salgado\source\repos\CheatGTA\CheatGTA\obj\Debug\CheatGTA.exe
+C:\Users\Jony Salgado\source\repos\CheatGTA\CheatGTA\obj\Debug\CheatGTA.pdb
+C:\Users\Jony Salgado\source\repos\CheatGTA\CheatGTA\bin\Debug\Win32Interop.Kernel32.dll
+C:\Users\Jony Salgado\source\repos\CheatGTA\CheatGTA\bin\Debug\Win32Interop.Kernel32.pdb
+C:\Users\Jony Salgado\source\repos\CheatGTA\CheatGTA\obj\Debug\CheatGTA.csproj.CopyComplete
